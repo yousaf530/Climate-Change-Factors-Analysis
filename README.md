@@ -42,11 +42,11 @@ harmful effects on the climate could be minimized.
 
 ## Dashboard
 
-### Population (Page 1)
+### Population Trend (Page 1)
 
 ![Screen1](https://user-images.githubusercontent.com/45168689/117138173-14daa200-adc4-11eb-90d3-a3312508b78e.png)
 
 
-### Carbon Emission (Page 2)
+### Carbon Emission Trend(Page 2)
 
 ![Screen2](https://user-images.githubusercontent.com/45168689/117138349-55d2b680-adc4-11eb-9bf3-ae26e9c37504.png)
